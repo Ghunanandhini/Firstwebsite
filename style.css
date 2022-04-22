@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    width: 100%;
+    height: 968px;
+    background: url(image/image\ bus.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul li{
+    list-style: none;
+    color:rgb(242, 251, 242);
+    display: inline;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 26px;
+    font-weight: bold;
+    cursor: pointer;
+}
+main{
+    margin-top: 20%;
+}
+main h1{
+    font-size: 100px;
+    color: rgb(25, 55, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+}
